@@ -1,0 +1,38 @@
+{
+  "Bengaluru": {
+    "month": "2026-04",
+    "sales_inr": 203505.48
+  },
+  "Guntur": {
+    "month": "2026-04",
+    "sales_inr": 62442.270000000004
+  },
+  "Hyderabad": {
+    "month": "2026-04",
+    "sales_inr": 209670.15
+  },
+  "Karimnagar": {
+    "month": "2026-04",
+    "sales_inr": 49815.71
+  },
+  "Nellore": {
+    "month": "2026-04",
+    "sales_inr": 85623.19
+  },
+  "Tirupati": {
+    "month": "2026-04",
+    "sales_inr": 54582.74
+  },
+  "Vijayawada": {
+    "month": "2026-04",
+    "sales_inr": 171334.19
+  },
+  "Visakhapatnam": {
+    "month": "2026-04",
+    "sales_inr": 134765.29
+  },
+  "Warangal": {
+    "month": "2026-04",
+    "sales_inr": 100468.14
+  }
+}

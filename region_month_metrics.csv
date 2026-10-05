@@ -1,0 +1,28 @@
+region,state,tier,month,order_count,sales_inr,profit_inr
+Bengaluru,Karnataka,Tier-1,2026-04,113,203505.48,31367.49
+Bengaluru,Karnataka,Tier-1,2026-05,118,172929.68,25158.41
+Bengaluru,Karnataka,Tier-1,2026-06,101,170294.11,26626.8
+Guntur,Andhra Pradesh,Tier-2,2026-04,51,62442.270000000004,9816.28
+Guntur,Andhra Pradesh,Tier-2,2026-05,77,138738.93,19676.92
+Guntur,Andhra Pradesh,Tier-2,2026-06,62,99745.18,15541.68
+Hyderabad,Telangana,Tier-1,2026-04,158,209670.15,30501.06
+Hyderabad,Telangana,Tier-1,2026-05,145,243825.28,34368.01
+Hyderabad,Telangana,Tier-1,2026-06,216,294088.56,43818.01
+Karimnagar,Telangana,Tier-3,2026-04,29,49815.71,7672.13
+Karimnagar,Telangana,Tier-3,2026-05,38,61585.9,9349.34
+Karimnagar,Telangana,Tier-3,2026-06,22,34490.58,5443.9
+Nellore,Andhra Pradesh,Tier-2,2026-04,54,85623.19,13511.07
+Nellore,Andhra Pradesh,Tier-2,2026-05,64,91184.86,13752.83
+Nellore,Andhra Pradesh,Tier-2,2026-06,46,94393.62,13313.27
+Tirupati,Andhra Pradesh,Tier-2,2026-04,43,54582.74,8779.8
+Tirupati,Andhra Pradesh,Tier-2,2026-05,58,91083.2,13383.43
+Tirupati,Andhra Pradesh,Tier-2,2026-06,50,75530.99,11377.44
+Vijayawada,Andhra Pradesh,Tier-2,2026-04,97,171334.19,26670.72
+Vijayawada,Andhra Pradesh,Tier-2,2026-05,92,174863.57,25432.14
+Vijayawada,Andhra Pradesh,Tier-2,2026-06,95,153849.68,23708.57
+Visakhapatnam,Andhra Pradesh,Tier-2,2026-04,91,134765.29,19872.670000000002
+Visakhapatnam,Andhra Pradesh,Tier-2,2026-05,33,50590.08,7899.72
+Visakhapatnam,Andhra Pradesh,Tier-2,2026-06,52,100735.57,16437.66
+Warangal,Telangana,Tier-2,2026-04,64,100468.14,16107.37
+Warangal,Telangana,Tier-2,2026-05,75,78339.23,11956.71
+Warangal,Telangana,Tier-2,2026-06,56,66715.24,10736.16

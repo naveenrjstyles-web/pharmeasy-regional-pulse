@@ -1,0 +1,9 @@
+{"timestamp":"2026-09-28T15:20:48.742309+00:00","run_id":"demo-guntur-2026-09-28","region":"Guntur","decision":"approve","reviewer_note":"Verified against SQL metrics; approved for downstream use."}
+{"timestamp":"2026-09-28T15:20:48.742485+00:00","run_id":"demo-guntur-2026-09-28","region":"Guntur","decision":"edit","reviewer_note":"Clarify that the threshold is an operational alert, not a statistical test."}
+{"timestamp":"2026-09-28T15:20:48.742529+00:00","run_id":"demo-guntur-2026-09-28","region":"Guntur","decision":"reject","reviewer_note":"Evidence block needs correction before release."}
+{"timestamp":"2026-09-28T15:22:40.727207+00:00","run_id":"demo-guntur-2026-09-28","region":"Guntur","decision":"approve","reviewer_note":"Verified against SQL metrics; approved for downstream use."}
+{"timestamp":"2026-09-28T15:22:40.727310+00:00","run_id":"demo-guntur-2026-09-28","region":"Guntur","decision":"edit","reviewer_note":"Clarify that the threshold is an operational alert, not a statistical test."}
+{"timestamp":"2026-09-28T15:22:40.727351+00:00","run_id":"demo-guntur-2026-09-28","region":"Guntur","decision":"reject","reviewer_note":"Evidence block needs correction before release."}
+{"timestamp":"2026-10-05T16:57:00.841099+00:00","run_id":"demo-guntur-2026-09-28","region":"Guntur","decision":"approve","reviewer_note":"Verified against SQL metrics; approved for downstream use."}
+{"timestamp":"2026-10-05T16:57:00.843061+00:00","run_id":"demo-guntur-2026-09-28","region":"Guntur","decision":"edit","reviewer_note":"Clarify that the threshold is an operational alert, not a statistical test."}
+{"timestamp":"2026-10-05T16:57:00.845262+00:00","run_id":"demo-guntur-2026-09-28","region":"Guntur","decision":"reject","reviewer_note":"Evidence block needs correction before release."}
